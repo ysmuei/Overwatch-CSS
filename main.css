@@ -44,6 +44,7 @@ body{
   background-size: 90px;
   transform: skewX(14deg) translateX(-16px);
 }
+/* 32개의 캐릭터별로 이미지와 클래스 구성 */
 .container .heroes .hero:nth-child(1) .image{ background-image: url("./images/hero1.png"); }
 .container .heroes .hero:nth-child(2) .image{ background-image: url("./images/hero2.png"); }
 .container .heroes .hero:nth-child(3) .image{ background-image: url("./images/hero3.png"); }
